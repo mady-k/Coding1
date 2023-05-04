@@ -9,4 +9,6 @@ Week 12 Classes Assignment creates a class and assigns the class a status and he
 
 Week 10 Adventure Game creates an adventure for the player to go on. This adventure includes fighting opponents, blocking attacks, and collecting treasure. [Run it on Repl.it](https://replit.com/@madykay/Adventure-Pt2?v=1)
 
+Week 7 Call Status makes an inventory and lets the player do multiple functions. [Run it on Repl.it](https://replit.com/@madykay/Coding1B-Week7B?v=1)
+
 Week 6 Adventure sets up an adventure for the player to attack and block enemies. [Run it on Repl.it](https://replit.com/@madykay/Adventure?v=1)
